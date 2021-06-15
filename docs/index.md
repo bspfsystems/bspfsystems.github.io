@@ -2,4 +2,5 @@
 
 <ul>
 <li><a href="https://javadoc.io/doc/org.bspfsystems/yamlconfiguration/latest/index.html">YamlConfiguration</a></li>
+<li><a href="https://javadoc.io/doc/org.bspfsystems.bungeeipc/bungeeipc-api/latest/index.html">BungeeIPC</a></li>
 </ul>
