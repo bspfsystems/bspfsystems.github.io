@@ -7,9 +7,9 @@ You can check out our code repositories <a href="https://github.com/bspfsystems/
 </p>
 
 <p>
-You can also check out the Javadocs for our various repositories <a href="https://bspfsystems.org/docs/">here</a>.
+You can also check out the Javadocs for our various repositories <a href="./docs/">here</a>.
 </p>
 
 <p>
-Updated configuration files for projects that utilize them can be found <a href="https://bspfsystems.org/config-files/">here</a>.
+Updated configuration files for projects that utilize them can be found <a href="./config-files/">here</a>.
 </p>
