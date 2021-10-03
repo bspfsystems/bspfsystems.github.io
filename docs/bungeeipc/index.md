@@ -1,6 +1,6 @@
 <center><h1>BungeeIPC Javadocs</h1></center>
 
-<h3>Current APIs (2.0.0 - 2.1.0)</h3>
+<h3>Current APIs (2.0.0 - 2.1.1)</h3>
 
 <ul>
 <li><a href="./client/">Client</a></li>
