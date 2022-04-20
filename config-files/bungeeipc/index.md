@@ -1,4 +1,4 @@
-<center><h1>BungeeIPC Configuration Files</h1></center>
+<h1 style="text-align:center">BungeeIPC Configuration Files</h1>
 
 <ul>
 <li><a href="./bukkit/">Bukkit</a></li>

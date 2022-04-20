@@ -1,4 +1,4 @@
-<center><h1>BSPF Systems Configuration Files</h1></center>
+<h1 style="text-align:center">BSPF Systems Configuration Files</h1>
 
 <ul>
 <li><a href="./bungeeipc/">BungeeIPC</a></li>

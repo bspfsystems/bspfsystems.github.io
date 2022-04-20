@@ -1,4 +1,4 @@
-<center><h1>BSPF Systems Javadoc Table of Contents</h1></center>
+<h1 style="text-align:center">BSPF Systems Javadoc Table of Contents</h1>
 
 <ul>
 <li><a href="./basicmojangapi/">BasicMojangAPI</a></li>

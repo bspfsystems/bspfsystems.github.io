@@ -1,4 +1,4 @@
-<center><h1>BungeeIPC Javadocs</h1></center>
+<h1 style="text-align:center">BungeeIPC Javadocs</h1>
 
 <h3>Current APIs (2.0.0 - 3.0.1)</h3>
 
