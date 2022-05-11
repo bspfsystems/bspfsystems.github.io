@@ -1,6 +1,6 @@
 <p>BSPF Systems develops open-sourced Java projects for the community to use. We also borrow the best of other open-sourced projects (while giving them credit) and make them available to use as standalone items.</p>
 <br />
-<h4>Useful Links:</h4>
+<h2>Useful Links:</h2>
 <ul>
     <li><a href="./projects/">Projects</a></li>
     <li><a href="./wikis/">Wikis</a></li>
