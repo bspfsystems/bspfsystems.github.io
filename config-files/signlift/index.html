@@ -47,13 +47,24 @@
     <body>
         <div id="header">
             <nav>
-                <ul>
-                    <li class="forkleft"><a href="https://bspfsystems.org/">BSPF Systems</a></li>
-                    <li class="forkright"><a href="https://github.com/bspfsystems/bspfsystems.github.io">View Site On GitHub</a></li>
-                    <li class="forkright"><a href="https://bspfsystems.org/docs/">Javadocs</a></li>
-                    <li class="forkright"><a href="https://bspfsystems.org/wikis/">Wikis</a></li>
-                    <li class="forkright"><a href="https://bspfsystems.org/downloads/">Downloads</a></li>
-                </ul>
+                <div class="home">
+                    <a href="https://bspfsystems.org/">BSPF Systems</a>
+                </div>
+                <script type="text/javascript">
+                    function displayResources(id) {
+                        var div = document.getElementById(id);
+                        div.style.display = div.style.display == "block" ? "none" : "block";
+                    }
+                </script>
+                <div class="resources">
+                    <label onclick="displayResources('resources-content')">Resources...</label>
+                    <div class="resources-content" id="resources-content">
+                        <a href="https://bspfsystems.org/projects/">Projects</a>
+                        <a href="https://bspfsystems.org/downloads/">Downloads</a>
+                        <a href="https://bspfsystems.org/wikis/">Wikis</a>
+                        <a href="https://bspfsystems.org/docs/">Javadocs</a>
+                    </div>
+                </div>
             </nav>
         </div><!-- end header -->
         
@@ -69,6 +80,7 @@
                 </div>
                 
                 <h1 style="text-align:center">SignLift Configuration Files</h1>
+                <h3>Sub-Projects:</h3>
                 <ul>
                     <li><a href="./bukkit/">Bukkit</a></li>
                 </ul>
